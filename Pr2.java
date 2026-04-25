@@ -36,3 +36,13 @@ public class LinearEquationSolver {
         sc.close();
     }
 }
+
+output:
+Enter value of a: 2
+Enter value of b: 3
+Enter value of c: 1
+Enter value of d: 2
+Enter value of e: 8
+Enter value of f: 5
+Value of x = 1.00
+Value of y = 2.00
